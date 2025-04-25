@@ -1,2 +1,13 @@
-# bootstrapper
-Free bootstrapper free use do what ever to it i can care less c#  i marked parts in it you can change around and do what ever its not the best or worst
+# uistrapper
+downloads anything u want with a ui version
+
+
+
+
+# console bootstrapper
+it has a key system simple just put key and can download many things multi bootstrapper downloading == percent 
+
+
+
+
+this is all just to make my github enjoy
